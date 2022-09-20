@@ -1,4 +1,5 @@
 # Subject_independent_MI_classification_paper
+Experimental setup : Leave-one-subject-out (LOSO) is widely used. 
 
 ## Papers
 | Title | Author | Date | Publication | Link | Accuracy | Dataset | Model |
