@@ -5,8 +5,8 @@
 | - | - | - | - | :-:| :-: | :-: | :-: |
 | MIN2Net : End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification | Phairot Autthansan, et al. | June-2022 | IEEE Transactions on Biomedical Engineering | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9658165) [Code](https://github.com/IoBT-VISTEC/MIN2Net) | 60.03% 59.79% 72.03% | BCIC_IV_2a SMR-BCI OpenBMI | AE CNN triplet |
 | Subject-independent Brain-Computer Interfaces Based on Deep Convolutional Neural Networks | O-Yeon Kwon, et al. | Oct-2020 | IEEE Transactions on Neural Networks and Learning Systems | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8897723) Code | 74.15% | OpenBMI | FB CNN |
-| A subject-independent pattern-based Brain-Computer Interface | Andreas M. Ray, et al. | Oct-2015 | Frontiers in Behavioral Neuroscience | [Paper](https://www.frontiersin.org/articles/10.3389/fnbeh.2015.00269/full) Code | 66.2% (10x10 CV) | Private dataset | FBCSP, SVM |
-| Comparison of Designs Towards a Subject-Independent Brain-Computer Interface based on Motor Imagery | Fabien Lotte, et al. | 2009 | International Conference of the IEEE EMBS | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5334126) Code | 70.99% | BCIC_IV_2a (left, right hand) | multi resoulution FBCSP, SVM |
+| A subject-independent pattern-based Brain-Computer Interface | Andreas M. Ray, et al. | Oct-2015 | Frontiers in Behavioral Neuroscience | [Paper](https://www.frontiersin.org/articles/10.3389/fnbeh.2015.00269/full) Code | 66.2% (10x10 CV) | Private | FBCSP SVM |
+| Comparison of Designs Towards a Subject-Independent Brain-Computer Interface based on Motor Imagery | Fabien Lotte, et al. | 2009 | International Conference of the IEEE EMBS | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5334126) Code | 70.99% | BCIC_IV_2a (left, right hand) | multi-resoulution-FBCSP SVM |
 
 ## Papers to read 
 | Title | Author | Date | Publication | Link | Accuracy | Dataset | Model |
